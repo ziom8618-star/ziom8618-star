@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mohammed Moiz
 
-💻 Django Developer | 🤖 Machine Learning Enthusiast
+💻 Software Developer | 🤖 Machine Learning Enthusiast
 🔐 Building Smart Security Applications
 
 ---
