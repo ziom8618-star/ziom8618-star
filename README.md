@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋, I'm Mohammed Moiz
 
-<!--
-**ziom8618-star/ziom8618-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Django Developer | 🤖 Machine Learning Enthusiast
+🔐 Building Smart Security Applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🎓 Student passionate about coding
+* 🌱 Currently learning Django & Machine Learning
+* 💡 Interested in AI, Web Development & Security Systems
+
+---
+
+## 🛠️ Skills
+
+* Python 🐍
+* Django 🌐
+* HTML, CSS, JavaScript
+* Machine Learning 🤖
+
+---
+
+## 📂 Projects
+
+* 🔐 AI Fanince & Portfolio Manager
+* 📊 Stock Prediction (ML)
+
+
+---
+
+## 📫 Contact
+
+* Email: [yourmail@gmail.com]
+
+---
+
+⭐ Keep Learning | Keep Building 🚀
